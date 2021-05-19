@@ -1,32 +1,44 @@
 # array-methods
 
 ## map 
-Creates a new array from an existing array.
+Creates a new array with new data from an existing array.
 
 ## reduce 
+Returns a single value from data of an existing array.
 
 ## Filter
+Creates a new array of values that passes a test given by a function.
 
 ## forEach
+Does one thing to each value by a given function.
 
 ## sort 
+Rearranges values based on restrictions.
 
 ## Slice
+Makes an array shorter in length by removing one or some of its values.
+Can take 2 values .slice(x,y). x will be included in the new array, up to y (excluding y)
 
 ## Pop
+Removes last element from array. Output will be that element.
 
 ## Shift
+Removes first element from array. Output will be that element.
 
 ## push 
+Adds one or more elements to the end of an array. 
 
 ## Unshift
+Adds one or more elements to the beginning of an array.
 
 ## Includes
+Determines if an array contains a certain value. Returns a boolean.
 
 ## indexOf 
+Returns the element at the provided index of an array.
 
 ## every 
-
+Determines if all elements passes a test given by a function. Returns a boolean.
 
 ## Practice Questions 
  
